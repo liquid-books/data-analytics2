@@ -17,7 +17,6 @@ the audience is Data Analytics undergraduate students and this is one of the fir
   github: https://github.com/liquid-books/data-analytics2
   jupyter:
     lite: true
-    lite: true
     pyodide: true
   toc:
     - file: introduction-to-data-analytics.md
