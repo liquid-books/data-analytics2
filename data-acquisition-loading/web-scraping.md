@@ -1,8 +1,8 @@
 ---
-title: Data Sources and File Formats
+title: Web Scraping Fundamentals
 ---
 
-# Data Sources and File Formats
+# Web Scraping Fundamentals
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Data Sources and File Formats**.
+This chapter covers **Web Scraping Fundamentals**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Data Sources and File Formats")
+print("Hello from Web Scraping Fundamentals")
 ```
 
 ## Summary
 
-Summary of Data Sources and File Formats will be added here.
+Summary of Web Scraping Fundamentals will be added here.
 
 ---
 

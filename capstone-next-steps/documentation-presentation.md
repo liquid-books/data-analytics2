@@ -1,8 +1,8 @@
 ---
-title: Data Sources and File Formats
+title: Documenting and Presenting Your Analysis
 ---
 
-# Data Sources and File Formats
+# Documenting and Presenting Your Analysis
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Data Sources and File Formats**.
+This chapter covers **Documenting and Presenting Your Analysis**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Data Sources and File Formats")
+print("Hello from Documenting and Presenting Your Analysis")
 ```
 
 ## Summary
 
-Summary of Data Sources and File Formats will be added here.
+Summary of Documenting and Presenting Your Analysis will be added here.
 
 ---
 

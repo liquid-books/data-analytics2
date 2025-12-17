@@ -1,8 +1,8 @@
 ---
-title: Data Sources and File Formats
+title: Capstone Project and Next Steps
 ---
 
-# Data Sources and File Formats
+# Capstone Project and Next Steps
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Data Sources and File Formats**.
+This chapter covers **Capstone Project and Next Steps**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Data Sources and File Formats")
+print("Hello from Capstone Project and Next Steps")
 ```
 
 ## Summary
 
-Summary of Data Sources and File Formats will be added here.
+Summary of Capstone Project and Next Steps will be added here.
 
 ---
 

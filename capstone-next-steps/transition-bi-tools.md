@@ -1,8 +1,8 @@
 ---
-title: Data Sources and File Formats
+title: Transitioning to Power BI and Tableau
 ---
 
-# Data Sources and File Formats
+# Transitioning to Power BI and Tableau
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Data Sources and File Formats**.
+This chapter covers **Transitioning to Power BI and Tableau**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Data Sources and File Formats")
+print("Hello from Transitioning to Power BI and Tableau")
 ```
 
 ## Summary
 
-Summary of Data Sources and File Formats will be added here.
+Summary of Transitioning to Power BI and Tableau will be added here.
 
 ---
 

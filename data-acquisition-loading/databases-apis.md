@@ -1,8 +1,8 @@
 ---
-title: Data Sources and File Formats
+title: Connecting to Databases and APIs
 ---
 
-# Data Sources and File Formats
+# Connecting to Databases and APIs
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Data Sources and File Formats**.
+This chapter covers **Connecting to Databases and APIs**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Data Sources and File Formats")
+print("Hello from Connecting to Databases and APIs")
 ```
 
 ## Summary
 
-Summary of Data Sources and File Formats will be added here.
+Summary of Connecting to Databases and APIs will be added here.
 
 ---
 

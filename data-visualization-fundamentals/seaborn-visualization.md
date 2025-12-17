@@ -1,8 +1,8 @@
 ---
-title: Data Sources and File Formats
+title: Statistical Visualization with Seaborn
 ---
 
-# Data Sources and File Formats
+# Statistical Visualization with Seaborn
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Data Sources and File Formats**.
+This chapter covers **Statistical Visualization with Seaborn**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Data Sources and File Formats")
+print("Hello from Statistical Visualization with Seaborn")
 ```
 
 ## Summary
 
-Summary of Data Sources and File Formats will be added here.
+Summary of Statistical Visualization with Seaborn will be added here.
 
 ---
 

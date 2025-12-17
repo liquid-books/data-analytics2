@@ -1,8 +1,8 @@
 ---
-title: Data Sources and File Formats
+title: What is Feature Engineering?
 ---
 
-# Data Sources and File Formats
+# What is Feature Engineering?
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Data Sources and File Formats**.
+This chapter covers **What is Feature Engineering?**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Data Sources and File Formats")
+print("Hello from What is Feature Engineering?")
 ```
 
 ## Summary
 
-Summary of Data Sources and File Formats will be added here.
+Summary of What is Feature Engineering? will be added here.
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Data Sources and File Formats
+title: Building Your Data Analytics Portfolio
 ---
 
-# Data Sources and File Formats
+# Building Your Data Analytics Portfolio
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Data Sources and File Formats**.
+This chapter covers **Building Your Data Analytics Portfolio**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Data Sources and File Formats")
+print("Hello from Building Your Data Analytics Portfolio")
 ```
 
 ## Summary
 
-Summary of Data Sources and File Formats will be added here.
+Summary of Building Your Data Analytics Portfolio will be added here.
 
 ---
 

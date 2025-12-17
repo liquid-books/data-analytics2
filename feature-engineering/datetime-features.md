@@ -1,8 +1,8 @@
 ---
-title: Data Sources and File Formats
+title: Date and Time Feature Extraction
 ---
 
-# Data Sources and File Formats
+# Date and Time Feature Extraction
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Data Sources and File Formats**.
+This chapter covers **Date and Time Feature Extraction**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Data Sources and File Formats")
+print("Hello from Date and Time Feature Extraction")
 ```
 
 ## Summary
 
-Summary of Data Sources and File Formats will be added here.
+Summary of Date and Time Feature Extraction will be added here.
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Data Sources and File Formats
+title: Reading CSV, Excel, and JSON with Pandas
 ---
 
-# Data Sources and File Formats
+# Reading CSV, Excel, and JSON with Pandas
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Data Sources and File Formats**.
+This chapter covers **Reading CSV, Excel, and JSON with Pandas**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Data Sources and File Formats")
+print("Hello from Reading CSV, Excel, and JSON with Pandas")
 ```
 
 ## Summary
 
-Summary of Data Sources and File Formats will be added here.
+Summary of Reading CSV, Excel, and JSON with Pandas will be added here.
 
 ---
 

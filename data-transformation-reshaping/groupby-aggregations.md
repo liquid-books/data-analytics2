@@ -1,8 +1,8 @@
 ---
-title: Data Sources and File Formats
+title: GroupBy Operations and Aggregations
 ---
 
-# Data Sources and File Formats
+# GroupBy Operations and Aggregations
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Data Sources and File Formats**.
+This chapter covers **GroupBy Operations and Aggregations**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Data Sources and File Formats")
+print("Hello from GroupBy Operations and Aggregations")
 ```
 
 ## Summary
 
-Summary of Data Sources and File Formats will be added here.
+Summary of GroupBy Operations and Aggregations will be added here.
 
 ---
 

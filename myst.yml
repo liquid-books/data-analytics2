@@ -1,5 +1,6 @@
 # Liquid Books Configuration
 # Created by Dr. Lee
+# Book-level features: 26 enabled
 
 version: 1
 
@@ -16,6 +17,8 @@ the audience is Data Analytics undergraduate students and this is one of the fir
   github: https://github.com/liquid-books/data-analytics2
   jupyter:
     lite: true
+    lite: true
+    pyodide: true
   toc:
     - file: introduction-to-data-analytics.md
     - file: what-is-data-analytics.md
@@ -23,7 +26,7 @@ the audience is Data Analytics undergraduate students and this is one of the fir
     - file: types-of-analytics.md
     - file: career-paths.md
     - file: environment-setup.md
-    - file: first-analysis-colab.md
+    - file: first-analysis-lab.md
     - file: univariate-bivariate-multivariate-analysis.md
       children:
         - file: univariate-analysis.md
@@ -31,57 +34,84 @@ the audience is Data Analytics undergraduate students and this is one of the fir
         - file: bivariate-analysis.md
         - file: correlation-covariance.md
         - file: multivariate-analysis.md
-        - file: statistical-analysis-pandas.md
+        - file: statistical-analysis-lab.md
     - file: data-acquisition-loading.md
       children:
         - file: data-sources-formats.md
-        - file: reading-files.md
-        - file: database-connections.md
-        - file: api-data-collection.md
+        - file: reading-files-pandas.md
+        - file: databases-apis.md
+        - file: web-scraping.md
         - file: large-datasets.md
-        - file: data-ingestion-pipeline.md
-    - file: data-cleaning-quality.md
+        - file: data-pipeline-lab.md
+    - file: data-wrangling-cleaning.md
       children:
-        - file: data-quality-issues.md
-        - file: handling-missing-values.md
-        - file: outlier-detection-treatment.md
+        - file: understanding-dirty-data.md
+        - file: missing-values.md
+        - file: outliers.md
         - file: data-type-conversions.md
+        - file: string-manipulation.md
         - file: duplicates-inconsistencies.md
-        - file: cleaning-messy-dataset.md
-    - file: data-wrangling-transformation.md
+        - file: cleaning-lab.md
+    - file: data-transformation-reshaping.md
       children:
-        - file: filtering-sorting-selecting.md
-        - file: grouping-aggregation.md
-        - file: merging-joining-concatenating.md
-        - file: reshaping-pivot-melt.md
-        - file: string-datetime-manipulation.md
-        - file: transform-analysis-ready.md
+        - file: filter-sort-select.md
+        - file: groupby-aggregations.md
+        - file: merge-join-concat.md
+        - file: pivot-crosstab.md
+        - file: melt-reshape.md
+        - file: transformation-lab.md
     - file: feature-engineering.md
       children:
-        - file: intro-feature-engineering.md
-        - file: creating-new-features.md
-        - file: encoding-categorical.md
-        - file: binning-scaling-normalization.md
+        - file: feature-engineering-intro.md
+        - file: creating-features.md
+        - file: categorical-encoding.md
+        - file: normalization-standardization.md
+        - file: binning-discretization.md
+        - file: datetime-features.md
         - file: feature-selection.md
-        - file: engineering-predictive-features.md
+        - file: feature-engineering-lab.md
     - file: data-visualization-fundamentals.md
       children:
         - file: visualization-principles.md
-        - file: matplotlib-seaborn.md
-        - file: choosing-charts.md
-        - file: interactive-plotly.md
-        - file: preparing-for-bi-tools.md
-        - file: visual-dashboard.md
-    - file: capstone-project.md
+        - file: matplotlib-essentials.md
+        - file: seaborn-visualization.md
+        - file: chart-selection.md
+        - file: plotly-interactive.md
+        - file: data-for-bi-tools.md
+        - file: visualization-lab.md
+    - file: capstone-next-steps.md
       children:
-        - file: business-questions-objectives.md
-        - file: collection-exploratory.md
-        - file: capstone-cleaning-engineering.md
-        - file: analysis-insights.md
-        - file: storytelling-data.md
-        - file: presenting-next-steps.md
+        - file: project-workflow.md
+        - file: capstone-project.md
+        - file: documentation-presentation.md
+        - file: preparing-for-ml.md
+        - file: transition-bi-tools.md
+        - file: building-portfolio.md
 
 site:
   template: book-theme
   title: "Data Analytics"
+  options:
+    toc_sidebar: true
+    breadcrumbs: true
+    prev_next: true
+    page_toc: true
+    copy_button: true
+    github_buttons:
+      source: true
+      issue: true
+      edit: true
+    launch_buttons:
+      binder: true
+      colab: true
+      jupyterhub: false
+    colab:
+      enabled: true
+    search:
+      enabled: true
+    dark_mode: true
 
+export:
+  pdf: true
+  docx: true
+  chapter_pdf: true

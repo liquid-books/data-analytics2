@@ -1,8 +1,8 @@
 ---
-title: Data Sources and File Formats
+title: Preparing for AI and Machine Learning
 ---
 
-# Data Sources and File Formats
+# Preparing for AI and Machine Learning
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Data Sources and File Formats**.
+This chapter covers **Preparing for AI and Machine Learning**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Data Sources and File Formats")
+print("Hello from Preparing for AI and Machine Learning")
 ```
 
 ## Summary
 
-Summary of Data Sources and File Formats will be added here.
+Summary of Preparing for AI and Machine Learning will be added here.
 
 ---
 

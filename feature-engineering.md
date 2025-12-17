@@ -1,8 +1,8 @@
 ---
-title: Feature Engineering for Analytics
+title: Feature Engineering
 ---
 
-# Feature Engineering for Analytics
+# Feature Engineering
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Feature Engineering for Analytics**.
+This chapter covers **Feature Engineering**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Feature Engineering for Analytics")
+print("Hello from Feature Engineering")
 ```
 
 ## Summary
 
-Summary of Feature Engineering for Analytics will be added here.
+Summary of Feature Engineering will be added here.
 
 ---
 

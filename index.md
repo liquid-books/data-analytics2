@@ -21,11 +21,11 @@ Written by Dr. Ernesto Lee & Professor Carlos Marquez
 - [Introduction to Data Analytics](introduction-to-data-analytics.md)
 - [Univariate, Bivariate, and Multivariate Analysis](univariate-bivariate-multivariate-analysis.md)
 - [Data Acquisition and Loading](data-acquisition-loading.md)
-- [Data Cleaning and Quality Assessment](data-cleaning-quality.md)
-- [Data Wrangling and Transformation](data-wrangling-transformation.md)
-- [Feature Engineering for Analytics](feature-engineering.md)
+- [Data Wrangling and Cleaning](data-wrangling-cleaning.md)
+- [Data Transformation and Reshaping](data-transformation-reshaping.md)
+- [Feature Engineering](feature-engineering.md)
 - [Data Visualization Fundamentals](data-visualization-fundamentals.md)
-- [Capstone: End-to-End Analytics Project](capstone-project.md)
+- [Capstone Project and Next Steps](capstone-next-steps.md)
 
 ---
 

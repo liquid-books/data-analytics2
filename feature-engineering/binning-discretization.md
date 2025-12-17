@@ -1,8 +1,8 @@
 ---
-title: Data Sources and File Formats
+title: Binning and Discretization
 ---
 
-# Data Sources and File Formats
+# Binning and Discretization
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Data Sources and File Formats**.
+This chapter covers **Binning and Discretization**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Data Sources and File Formats")
+print("Hello from Binning and Discretization")
 ```
 
 ## Summary
 
-Summary of Data Sources and File Formats will be added here.
+Summary of Binning and Discretization will be added here.
 
 ---
 

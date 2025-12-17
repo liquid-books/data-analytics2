@@ -1,8 +1,8 @@
 ---
-title: Data Sources and File Formats
+title: Data Transformation and Reshaping
 ---
 
-# Data Sources and File Formats
+# Data Transformation and Reshaping
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Data Sources and File Formats**.
+This chapter covers **Data Transformation and Reshaping**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Data Sources and File Formats")
+print("Hello from Data Transformation and Reshaping")
 ```
 
 ## Summary
 
-Summary of Data Sources and File Formats will be added here.
+Summary of Data Transformation and Reshaping will be added here.
 
 ---
 
