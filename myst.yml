@@ -1,0 +1,87 @@
+# Liquid Books Configuration
+# Created by Dr. Lee
+
+version: 1
+
+project:
+  title: "Data Analytics"
+  description: "An 8 chapter book on Data Analytics.
+- An introduction to Data Analytics
+- Univariate / Bivariate / Multivariate Analysis
+- AND 6 other relevant chapters but those are the top 2.
+
+the audience is Data Analytics undergraduate students and this is one of the first courses.  We will use a lot of Python and Pandas and Google Colab.  Students should be able to wrangle and feature engineer data so that they are positioned to take AI and Power BI and Tableau classes etc. next"
+  authors:
+    - name: "Dr. Ernesto Lee & Professor Carlos Marquez"
+  github: https://github.com/liquid-books/data-analytics2
+  jupyter:
+    lite: true
+  toc:
+    - file: introduction-to-data-analytics.md
+    - file: what-is-data-analytics.md
+    - file: data-analytics-lifecycle.md
+    - file: types-of-analytics.md
+    - file: career-paths.md
+    - file: environment-setup.md
+    - file: first-analysis-colab.md
+    - file: univariate-bivariate-multivariate-analysis.md
+      children:
+        - file: univariate-analysis.md
+        - file: central-tendency-dispersion.md
+        - file: bivariate-analysis.md
+        - file: correlation-covariance.md
+        - file: multivariate-analysis.md
+        - file: statistical-analysis-pandas.md
+    - file: data-acquisition-loading.md
+      children:
+        - file: data-sources-formats.md
+        - file: reading-files.md
+        - file: database-connections.md
+        - file: api-data-collection.md
+        - file: large-datasets.md
+        - file: data-ingestion-pipeline.md
+    - file: data-cleaning-quality.md
+      children:
+        - file: data-quality-issues.md
+        - file: handling-missing-values.md
+        - file: outlier-detection-treatment.md
+        - file: data-type-conversions.md
+        - file: duplicates-inconsistencies.md
+        - file: cleaning-messy-dataset.md
+    - file: data-wrangling-transformation.md
+      children:
+        - file: filtering-sorting-selecting.md
+        - file: grouping-aggregation.md
+        - file: merging-joining-concatenating.md
+        - file: reshaping-pivot-melt.md
+        - file: string-datetime-manipulation.md
+        - file: transform-analysis-ready.md
+    - file: feature-engineering.md
+      children:
+        - file: intro-feature-engineering.md
+        - file: creating-new-features.md
+        - file: encoding-categorical.md
+        - file: binning-scaling-normalization.md
+        - file: feature-selection.md
+        - file: engineering-predictive-features.md
+    - file: data-visualization-fundamentals.md
+      children:
+        - file: visualization-principles.md
+        - file: matplotlib-seaborn.md
+        - file: choosing-charts.md
+        - file: interactive-plotly.md
+        - file: preparing-for-bi-tools.md
+        - file: visual-dashboard.md
+    - file: capstone-project.md
+      children:
+        - file: business-questions-objectives.md
+        - file: collection-exploratory.md
+        - file: capstone-cleaning-engineering.md
+        - file: analysis-insights.md
+        - file: storytelling-data.md
+        - file: presenting-next-steps.md
+
+site:
+  template: book-theme
+  title: "Data Analytics"
+
