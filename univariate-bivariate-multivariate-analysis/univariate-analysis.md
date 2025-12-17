@@ -1,8 +1,8 @@
 ---
-title: Univariate Analysis: Exploring Single Variables
+title: Univariate Analysis: Understanding Single Variables
 ---
 
-# Univariate Analysis: Exploring Single Variables
+# Univariate Analysis: Understanding Single Variables
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Univariate Analysis: Exploring Single Variables**.
+This chapter covers **Univariate Analysis: Understanding Single Variables**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Univariate Analysis: Exploring Single Variables")
+print("Hello from Univariate Analysis: Understanding Single Variables")
 ```
 
 ## Summary
 
-Summary of Univariate Analysis: Exploring Single Variables will be added here.
+Summary of Univariate Analysis: Understanding Single Variables will be added here.
 
 ---
 

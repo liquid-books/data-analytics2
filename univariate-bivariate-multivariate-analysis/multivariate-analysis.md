@@ -1,8 +1,8 @@
 ---
-title: Multivariate Analysis: Complex Relationships
+title: Multivariate Analysis: Handling Multiple Variables
 ---
 
-# Multivariate Analysis: Complex Relationships
+# Multivariate Analysis: Handling Multiple Variables
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Multivariate Analysis: Complex Relationships**.
+This chapter covers **Multivariate Analysis: Handling Multiple Variables**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Multivariate Analysis: Complex Relationships")
+print("Hello from Multivariate Analysis: Handling Multiple Variables")
 ```
 
 ## Summary
 
-Summary of Multivariate Analysis: Complex Relationships will be added here.
+Summary of Multivariate Analysis: Handling Multiple Variables will be added here.
 
 ---
 

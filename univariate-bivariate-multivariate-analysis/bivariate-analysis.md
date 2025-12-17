@@ -1,8 +1,8 @@
 ---
-title: Bivariate Analysis: Relationships Between Two Variables
+title: Bivariate Analysis: Exploring Relationships Between Two Variables
 ---
 
-# Bivariate Analysis: Relationships Between Two Variables
+# Bivariate Analysis: Exploring Relationships Between Two Variables
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Bivariate Analysis: Relationships Between Two Variables**.
+This chapter covers **Bivariate Analysis: Exploring Relationships Between Two Variables**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Bivariate Analysis: Relationships Between Two Variables")
+print("Hello from Bivariate Analysis: Exploring Relationships Between Two Variables")
 ```
 
 ## Summary
 
-Summary of Bivariate Analysis: Relationships Between Two Variables will be added here.
+Summary of Bivariate Analysis: Exploring Relationships Between Two Variables will be added here.
 
 ---
 
