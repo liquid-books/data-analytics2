@@ -5,7 +5,7 @@ title: Data Analytics
 
 # Data Analytics
 
-An 8 chapter book on Data Analytics.
+An 4 chapter book on Data Analytics.
 - An introduction to Data Analytics
 - Univariate / Bivariate / Multivariate Analysis
 - AND 6 other relevant chapters but those are the top 2.
